@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class GetShortestManhattanDistance {
 	
 	// 좌표값을 콘솔로 입력받는 입력 부
